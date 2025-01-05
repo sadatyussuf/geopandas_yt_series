@@ -1,0 +1,8 @@
+Column1,Column2,Column3,Column4,Column5
+10,100,50,-,25
+NA,200,n/a,None,50
+N/A,n/a,-,null,100
+-,None,,50,13
+,null,N/A,100,160
+ ,-,null,n/a,87
+25,300,75,25.0,150
